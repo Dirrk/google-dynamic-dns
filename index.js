@@ -1,5 +1,7 @@
-//#/usr/bin/node
+#! /usr/bin/env node
 'use strict';
+
+console.log('hello');
 
 const BPromise = require('bluebird'),
     Wreck = require("wreck"),

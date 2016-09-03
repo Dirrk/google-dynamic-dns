@@ -1,6 +1,6 @@
 {
   "name": "google-dynamic-dns",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Update google dynamic dns for google domains",
   "main": "index.js",
   "bin": {
