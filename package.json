@@ -1,0 +1,20 @@
+{
+  "name": "google-dynamic-dns",
+  "version": "1.0.0",
+  "description": "Update google dynamic dns for google domains",
+  "main": "index.js",
+  "bin": {
+      "gddns": "./index.js"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/Dirrk/google-dynamic-dns.git"
+  },
+  "author": "Derek Rada",
+  "license": "MIT",
+  "dependencies": {
+    "optimist": "^0.6.1",
+    "wreck": "^9.0.0",
+    "bluebird": "^3.4.6"
+  }
+}
